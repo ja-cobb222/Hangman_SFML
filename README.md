@@ -6,7 +6,7 @@ The Hangman game includes features such as random word selection from an externa
 
 My goal in developing this software was to strengthen my C++ programming skills while learning how to integrate a graphical user interface using external libraries like SFML.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/liA8d33O4XA)
 
 # Development Environment
 
